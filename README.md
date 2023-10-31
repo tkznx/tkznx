@@ -15,7 +15,7 @@ Is the battle between what you feel and what you know💻
 <p>
     
 <img alt="linux" src="https://www.uplooder.net/img/image/54/91402037824b80695ace802831ad835b/thumbnail.png" width="25" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="HTML5" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="25"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
