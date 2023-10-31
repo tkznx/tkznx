@@ -18,7 +18,7 @@ Is the battle between what you feel and what you know💻
 <img alt="HTML5" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="25"/>
 <img alt="CSS3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJB1m2y_TqkiwYPRgFyQ6EaQ3pmnKMYtjV3dhmystwpDuB-EFbRzp442frg980mlatzw&usqp=CAU" width="27" />
 <img alt="PHP" src="https://www.uplooder.net/img/image/59/7c49052a2d0ba04a77630b25ac462ca0/download.png" width="27" />
-<img alt="WordPress" src="https://banner2.cleanpng.com/20180920/xol/kisspng-wordpress-content-management-system-blog-plug-in-w-wordpress-logo-fill-wordcamp-russia-2-13-5ba38621b180a9.9844932815374433617271.jpg" width="35"/>
+<img alt="WordPress" src="https://banner2.cleanpng.com/20180920/xol/kisspng-wordpress-content-management-system-blog-plug-in-w-wordpress-logo-fill-wordcamp-russia-2-13-5ba38621b180a9.9844932815374433617271.jpg" width="38"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
