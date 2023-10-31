@@ -16,6 +16,7 @@ Is the battle between what you feel and what you know💻
     
 <img alt="linux" src="https://www.uplooder.net/img/image/54/91402037824b80695ace802831ad835b/thumbnail.png" width="25" />
 <img alt="Meta" src="https://www.uplooder.net/img/image/27/5e8c1b3da751a118cbca9fb79da01944/download-(1).png" width="28" />
+<img alt="Dart" src="https://www.uplooder.net/img/image/87/1605189a731d846d66e7602aff6ac659/Pictursse1.png" width="28" />
 <img alt="HTML5" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="25"/>
 <img alt="CSS3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJB1m2y_TqkiwYPRgFyQ6EaQ3pmnKMYtjV3dhmystwpDuB-EFbRzp442frg980mlatzw&usqp=CAU" width="27" />
 <img alt="PHP" src="https://www.uplooder.net/img/image/59/7c49052a2d0ba04a77630b25ac462ca0/download.png" width="27" />
