@@ -20,7 +20,7 @@ Is the battle between what you feel and what you know💻
 <img alt="PHP" src="https://www.uplooder.net/img/image/59/7c49052a2d0ba04a77630b25ac462ca0/download.png" width="27" />
 <img alt="WordPress" src="https://banner2.cleanpng.com/20180920/xol/kisspng-wordpress-content-management-system-blog-plug-in-w-wordpress-logo-fill-wordcamp-russia-2-13-5ba38621b180a9.9844932815374433617271.jpg" width="38"/>
 <img alt="Git" src="https://www.uplooder.net/img/image/21/516b4ee420da9dc6148018fb268f63d4/5847f981cef1014c0b5e48be.png" width="25"/>
-<img alt="MySQL" src="https://assets.stickpng.com/images/62debc4fff3c6e4b8b5de8d3.png" width="25"/>
+<img alt="MySQL" src="https://www.uplooder.net/img/image/16/ee26f67f483f19d27ee8440ee32a62dd/62debc4fff3c6e4b8b5de8d3.png" width="25"/>
 
 </p>
 
