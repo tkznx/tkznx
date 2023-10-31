@@ -5,3 +5,8 @@
     <br>
     Im Ali Paniashvili :)
   </h1>
+  <h3 align="center">
+  The hardest battle you have to fight in
+Is the battle between what you feel and what you know
+  </h3>
+
