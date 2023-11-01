@@ -36,3 +36,46 @@ Is the battle between what you feel and what you know💻
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html  xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  
+
+<script   language="Javascript">
+    
+
+
+ var  max=0;
+function textlist()
+{
+max=textlist.arguments.length;
+for (i=0; i<max; i++)
+this[i]=textlist.arguments[i];
+}
+tl=new textlist
+(
+"Welcome to my GitHub account",
+"You can contact me through the ways I left",
+    );
+var x=0; pos=0;
+var l=tl[0].length;
+function textticker()
+{
+document.myform.tickfield.value=tl[x].substring(0,pos)+"";
+if(pos++==l) { pos=0; setTimeout("textticker()",1000); x++;
+if(x==max) x=0; l=tl[x].length; } else
+setTimeout("textticker()",50);
+}
+
+</script>
+
+    
+</head>
+<body  onload="textticker()" dir="rtl">
+   <form name="myform"><input type=text name="tickfield" size=40 
+       style="border-style: none; border-color: #FFFFFF"/> </form>
+
+
+</body>
+</html>
