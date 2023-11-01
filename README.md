@@ -36,4 +36,6 @@ Is the battle between what you feel and what you know💻
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
+## My Welcome Music
+<p style="text-align:center;"><audio preload="none" src="https://uploadkon.ir/uploads/ec8c01_23VID-20231101-171616-424-audio-extractor-net-.mp3" controls="controls" autoplay="autoplay" loop="loop" style="max-width:95%;"></audio></p>
 
