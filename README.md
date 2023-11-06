@@ -32,7 +32,7 @@ Is the battle between what you feel and what you know💻
 <a href="https://instagram.com/tkznx">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://t.me/Rio0day">
+<a href="https://t.me/Ri0day">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
