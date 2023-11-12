@@ -29,7 +29,7 @@ Is the battle between what you feel and what you know💻
 </p>
 
 ## My social networks
-<a href="https://instagram.com/tkznx">
+<a href="https://instagram.com/rioz9x">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCO8H6qB7TNAxdIYCv2ECPng">
