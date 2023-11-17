@@ -7,7 +7,7 @@
   </h1>
   <h4 align="center">
   The hardest battle you have to fight in
-Is the battle between what you feel and what you know💻
+Is the battle between<br> what you feel and what you know💻
   </h4>
 
 ## My expertise
