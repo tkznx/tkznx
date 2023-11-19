@@ -36,6 +36,7 @@ Is the battle between<br> what you feel and what you know💻
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://t.me/Ri0day">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" src="https://www.uplooder.net/img/image/23/1a19b335cbefc42d6173ceb3d85250ec/telegram-logo-circle-icon-134012.png" />
 </a>
 
+//https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
