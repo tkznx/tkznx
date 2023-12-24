@@ -1,7 +1,6 @@
 
 <h1 align="center">
     <br>
-    <img align="right" alt="Hacking" width="400" src="https://i.gifer.com/origin/f7/f7756a29f8bee6dfd93130dce6f29fda_w200.gif" width="200"/>
     <img align="right" alt="Hacking" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
     <br>
     Hi👋 Im Ali Paniashvili :)
